@@ -1,4 +1,12 @@
-finance-app
+symfony3-starter
 ===========
 
-A Symfony project created on October 19, 2017, 9:19 pm.
+Simple symfony3 starter.
+
+Include:
+
+* Symfony 3.3.10
+
+* Doctrine Migrations Bundle
+
+* Doctrine Fixtures Bundle
